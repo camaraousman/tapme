@@ -1,0 +1,16 @@
+SSH
+IP: 149.100.151.27
+Port: 65002
+Username: u120925737
+password: TapmeSSH2023??
+
+git repo https
+https://github.com/camaraousman/buzzcard.git
+
+git access token
+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
+
+
+
+DB password
+TapmeSSH2023??
